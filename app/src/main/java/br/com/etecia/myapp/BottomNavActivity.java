@@ -26,5 +26,6 @@ public class BottomNavActivity extends AppCompatActivity {
             }
         });
 
+
     }
 }
